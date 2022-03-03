@@ -1,0 +1,38 @@
+@import url('https://fonts.googleapis.com/css2?family=Poppins&display=swap');
+
+html, body {
+    font-family: "Geomanist", sans-serif !important;
+}
+.container{
+    padding: 30px;
+}
+
+.flex{
+    display: flex;
+}
+
+.mt8{
+    margin-top: 8px;
+}
+.mb8{
+    margin-bottom: 8px;
+}
+.mr8{
+    margin-right: 8px;
+}
+.ml8{
+    margin-left: 8px;
+}
+
+.mt16{
+    margin-top: 16px;
+}
+.mb16{
+    margin-bottom: 16px;
+}
+.mr16{
+    margin-right: 16px;
+}
+.ml16{
+    margin-left: 16px;
+}
